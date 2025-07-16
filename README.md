@@ -20,7 +20,7 @@ This hands-on learning experience guides you through building an intelligent Cop
    **Note**: Some labs require files/assets which is accessible under [Lab Assets](https://github.com/sshashi7/AIRoadShow/tree/main/Lab%20Assets). Download the zip file to your computer and have these files ready for executing the labs successfully. 
 
 4. **Take on the Hackathon Challenge**  
-   When you're done with the labs, head to the [hackathon folder](./hackathon/) and try your hand at building an **autonomous agent** using advanced orchestration and triggers.
+   When you're done with the labs, head to the [Hack Challenge](https://github.com/sshashi7/AIRoadShow/tree/main/Hack%20Challenge) and try your hand at building an **autonomous agent** using advanced orchestration and triggers.
 
 5. **📑 Reference the Presentation Decks**  
    Use the [Presentation](./event%20deck/) for instructor-led presentation slides or self-paced context.

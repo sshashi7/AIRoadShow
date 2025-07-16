@@ -8,7 +8,7 @@ This hands-on learning experience guides you through building an intelligent Cop
    Sign up for Copilot Studio trial/sandbox and Azure subscription, and configure environments before starting the labs.
 
 2. **Begin with the Labs**  
-   Go to [Lab Guides](./lab-guides/) and follow each guide in order.  Some labs require files/assets which is available under [Lab Assests](./lab-assets/) 
+   Go to [Lab Guides](./lab-guides/) and follow each guide in order.  
    You'll progressively build an intelligent **Sales Buddy Agent** capable of:
    - Using Reasoning and Orchestration
    - Querying data (Dataverse, documents, and website)
@@ -16,7 +16,7 @@ This hands-on learning experience guides you through building an intelligent Cop
    - Analyzing documents and call transcripts
    - Integrating with Teams
    - Leveraging OpenAI and Azure AI Search 
-   
+  Note: Some labs require files/assets which is accessible under [Lab Assests](./lab-assets/) 
 
 4. **🎯 Take on the Hackathon Challenge**  
    When you're done with the labs, head to the [hackathon folder](./hackathon/) and try your hand at building an **autonomous agent** using advanced orchestration and triggers.

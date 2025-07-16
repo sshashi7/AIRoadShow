@@ -5,7 +5,7 @@ Welcome! This repository contains all the resources you need to **run, host, or 
 This hands-on learning experience guides you through building an intelligent Copilot agent called **Sales Buddy** using Microsoft technologies like **Copilot Studio**, **Azure AI Search**, **Azure OpenAI**, and more.
 
 
-# Start Here>>
+## Start Here>>
 
 1. **Review the [Lab Setup Guide](https://github.com/sshashi7/AIRoadShow/blob/main/Lab%20Setup%20Guide.pdf)**  
    Sign up for Copilot Studio trial/sandbox and Azure subscription, and configure environments before starting the labs.

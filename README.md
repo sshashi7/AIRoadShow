@@ -19,7 +19,7 @@ This hands-on learning experience guides you through building an intelligent Cop
   
 **Note**: Some labs require files/assets which is accessible under [Lab Assests](./lab-assets/). Download the zip file to your computer and have these files ready for executing the labs successfully. 
 
-4. **🎯 Take on the Hackathon Challenge**  
+4. **Take on the Hackathon Challenge**  
    When you're done with the labs, head to the [hackathon folder](./hackathon/) and try your hand at building an **autonomous agent** using advanced orchestration and triggers.
 
 5. **📑 Reference the Presentation Decks**  

@@ -1,14 +1,14 @@
-# 🧠 AIRoadShow: Copilot Studio + Azure AI Workshop & Hack
+# 🧠 AIRoadShow: Copilot Studio + Azure AI Workshop & Mini Hack
 
 Welcome! This repository contains all the resources you need to **run, host, or participate** in the Copilot Studio + Azure AI enablement workshop and mini hackathon.
 
-This hands-on learning experience guides you through building intelligent Copilot agents using Microsoft technologies like **Copilot Studio**, **Azure AI Search**, **Azure OpenAI**, and more.
+This hands-on learning experience guides you through building an intelligent Copilot agent called **Sales Buddy** using Microsoft technologies like **Copilot Studio**, **Azure AI Search**, **Azure OpenAI**, and more.
 
 1. **Review the [Lab Setup Guide](./setup-guide/Environment-Setup.md)**  
    Sign up for Copilot Studio trial/sandbox and Azure subscription, and configure environments before starting the labs.
 
 2. **Begin with the Labs**  
-   Go to [Lab Guides](./lab-guides/) and follow each guide in order.  
+   Go to [Lab Guides](./lab-guides/) and follow each guide in order.  Some labs require files/assets which is available under [Lab Assests](./lab-assets/) 
    You'll progressively build an intelligent **Sales Buddy Agent** capable of:
    - Using Reasoning and Orchestration
    - Querying data (Dataverse, documents, and website)

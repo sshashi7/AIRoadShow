@@ -16,10 +16,11 @@ This hands-on learning experience guides you through building an intelligent Cop
    - Analyzing documents and call transcripts
    - Integrating with Teams
    - Leveraging OpenAI and Azure AI Search 
-  Note: Some labs require files/assets which is accessible under [Lab Assests](./lab-assets/) 
+  
+**Note**: Some labs require files/assets which is accessible under [Lab Assests](./lab-assets/) 
 
 4. **🎯 Take on the Hackathon Challenge**  
    When you're done with the labs, head to the [hackathon folder](./hackathon/) and try your hand at building an **autonomous agent** using advanced orchestration and triggers.
 
-5. **📑 Reference the Event Deck**  
-   Use the [Event Deck](./event%20deck/) for instructor-led sessions or self-paced context.
+5. **📑 Reference the Presentation Decks**  
+   Use the [Presentation](./event%20deck/) for instructor-led presentation slides or self-paced context.

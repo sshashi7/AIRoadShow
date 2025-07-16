@@ -8,7 +8,7 @@ This hands-on learning experience guides you through building an intelligent Cop
    Sign up for Copilot Studio trial/sandbox and Azure subscription, and configure environments before starting the labs.
 
 2. **Begin with the Labs**  
-   Go to [Lab Guides](./lab-guides/) and follow each guide in order.  
+   Go to [Lab Guides](https://github.com/sshashi7/AIRoadShow/tree/main/Lab%20Guides) and follow each guide in order.  
    You'll progressively build an intelligent **Sales Buddy Agent** capable of:
    - Using Reasoning and Orchestration
    - Querying data (Dataverse, documents, and website)

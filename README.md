@@ -23,4 +23,4 @@ This hands-on learning experience guides you through building an intelligent Cop
    When you're done with the labs, head to the [Hack Challenge](https://github.com/sshashi7/AIRoadShow/tree/main/Hack%20Challenge) and try your hand at building an **autonomous agent** using advanced orchestration and triggers.
 
 5. **📑 Reference the Presentation Decks**  
-   Use the [Presentation](./event%20deck/) for instructor-led presentation slides or self-paced context.
+   Use the [Presentation](https://github.com/sshashi7/AIRoadShow/tree/main/Presentation) for instructor-led presentation slides or self-paced context.
